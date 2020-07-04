@@ -1,0 +1,31 @@
+.top{
+  background-color: blue;
+  height: 100px;
+  width: 2000px;
+}
+
+.drop1{
+  padding: 10;
+}
+
+.midbox{
+padding-left: 10px;
+}
+
+.lf{
+  color: grey;
+}
+
+.line{
+  height: 1px;
+  background-color: grey;
+}
+
+.button{
+  margin: 20px;
+}
+
+.bline{
+  height: 5px;
+  background-color: grey;
+}
